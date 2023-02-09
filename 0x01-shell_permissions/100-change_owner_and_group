@@ -1,2 +1,2 @@
-#!/bin/baentih
+#!/bin/bash
 chown -R vincent:school ./
